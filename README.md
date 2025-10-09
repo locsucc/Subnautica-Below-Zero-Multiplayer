@@ -17,7 +17,7 @@ Do not create an issue for other things that are not in-game bugs. Github is not
 
 ### How can I play this mod?
 
-You can download the beta version at [subnauticamultiplayer.com](https://subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
+You can download the full version at [subnauticamultiplayer.com](https://subnauticamultiplayer.com). For your own safety, do not download from anywhere other than "subnauticamultiplayer.com".
 
 ### Translations
 
